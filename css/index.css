@@ -240,10 +240,15 @@ header {
 .logofrase {
   width: 300px;
 }
+section.cajafrase div a{
+margin-bottom: 40px;
 
-.frase {
+
+
+}
+.frase{
   font-family: 'acuminBolderpro';
-  font-size: 30pt;
+  font-size: 25pt;
 }
 
 .cajafrase {
